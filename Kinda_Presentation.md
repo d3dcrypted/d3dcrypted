@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @d3dcrypted
+- 👀 I’m interested in CyberSec redteaming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on hands-on Projects
+- 📫 How to reach me e.prundu@proton.me
+- ⚡ Fun fact: I'm a sysadmin but I still fill a beginner

@@ -24,6 +24,11 @@ I am interested in the space between things: where infrastructure meets security
 
 - [IT Team Framework](https://github.com/d3dcrypted/it-team-framework) — a modular approach to IT assessment, governance, and execution with specialized AI agents.
 - [Second Brain Patterns](https://github.com/d3dcrypted/hermes-honcho-second-brain-pattern) — a privacy-conscious pattern for durable context, human review, and agent workflows.
+- [LLMOps Model Serving](https://github.com/d3dcrypted/llmops-model-serving) — local OpenAI-compatible serving with Prometheus observability.
+- [LLMOps RAG Pipeline](https://github.com/d3dcrypted/llmops-rag-pipeline) — transparent retrieval, citations, and an evaluation roadmap.
+- [LLMOps Evaluation Suite](https://github.com/d3dcrypted/llmops-evaluation-suite) — deterministic regression-testing primitives for LLM applications.
+- [LLMOps Security & Governance](https://github.com/d3dcrypted/llmops-security-governance) — baseline controls for PII handling and prompt-injection defense.
+- [LLMOps LoRA Fine-tuning](https://github.com/d3dcrypted/llmops-finetuning-lora) — reproducible experiment and dataset contracts for PEFT.
 
 ## A little more
 

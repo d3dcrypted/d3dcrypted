@@ -2,7 +2,9 @@
 
 > Infrastructure, security, and intelligent systems — built with curiosity and care.
 
-I work at the intersection of infrastructure engineering, cybersecurity, and AI. I like understanding how systems behave, finding where they can be improved, and turning complex ideas into practical, maintainable solutions.
+I work at the intersection of infrastructure engineering, cybersecurity, and AI. This profile is intentionally an AI-assisted experiment: most of what you see here is researched, drafted, organized, and refined by intelligent systems. My role is mainly orchestration — defining direction, setting boundaries, asking useful questions, and deciding what is worth keeping.
+
+I am not a natural GitHub native, nor a developer who writes everything from scratch. I am better at understanding systems, connecting moving parts, and giving capable tools a clear problem to solve. The result is a practical collaboration between human judgment and machine execution.
 
 ## What I explore
 
@@ -25,7 +27,7 @@ I am interested in the space between things: where infrastructure meets security
 
 ## A little more
 
-I am a systems person who still enjoys being a beginner. That is not a contradiction; it is the reason I keep learning.
+I am a systems person who still enjoys being a beginner. I do not pretend to be an expert programmer or a polished GitHub operator. I bring the intent, the questions, and the orchestration; AI brings much of the implementation. That is not a shortcut I hide — it is the method I am exploring.
 
 If you are working on thoughtful infrastructure, practical security, or human-centered AI, feel free to explore the repositories.
 

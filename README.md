@@ -8,7 +8,7 @@ Most of what is in these repositories was drafted with an AI assistant. I set th
 
 ## What I am working on
 
-- [LLMOps reference stack](https://github.com/d3dcrypted/llmops): five small projects over the lifecycle, in one repository. Retrieval with citations, evaluation gates, serving with metrics, fine-tuning data contracts, security and governance. The tests need no GPU, no API key and no network.
+- [LLMOps building blocks](https://github.com/d3dcrypted/llmops): five small demos in one repository. Retrieval with citations, token-overlap evaluation gates, a llama.cpp serving stack with metrics, fine-tuning data contracts, input-filter heuristics. No model is trained or evaluated there; each README lists its limits. The tests need no GPU, no API key and no network.
 - [IT team framework](https://github.com/d3dcrypted/it-team-framework): how I run an IT assessment with agents, one per domain, plus a gatekeeper and a validator.
 - [Second brain patterns](https://github.com/d3dcrypted/hermes-honcho-second-brain-pattern): durable context for CLI agents, kept as plain markdown in a vault I can read and edit.
 - [LinkedIn agent](https://github.com/d3dcrypted/linkedin-agent): a raw thought in, a sourced and humanized draft out.
